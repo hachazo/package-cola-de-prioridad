@@ -21,3 +21,19 @@ generic
       
    end Cola_prioridad;
    
+--   function mayor (X,Y: Integer) return Boolean is
+--   begin
+--      return x>Y;
+--      end mayor;
+--   package Colapinc is new Cola_Prioridad(Integer,mayor);
+--   use Colapinc;
+--   
+--   subtype Colap is Tcolap(10);
+--   Cola:Colap;
+--   dimension:integer;
+      
+--   Cola:Colap;
+--   dimension:integer;
+--   
+--   procedure Llenar_Cola(Cola: out Tcolap; Dim: out Integer) is
+--   procedure Imprimir(Cola: in out Tcolap; Dim: in Integer) i
